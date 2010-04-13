@@ -1,0 +1,1 @@
+#include "chess.hpp"namespace CChess{	Chess::Chess()	{	}}

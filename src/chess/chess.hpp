@@ -1,0 +1,1 @@
+#pragma oncenamespace CChess{	class Chess	{		/**		 * brief Default constructor.		 */		 Chess();	};}
